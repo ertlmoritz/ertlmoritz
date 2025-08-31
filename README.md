@@ -37,7 +37,7 @@ Hi, I’m **Moritz Ertl** — a Master’s student in Mechanical Engineering (M.
 
 ### ✉️ Connect with me  
 - Email: moritz.ertl@prodmail.de
-- LinkedIn: [in/moritz-ertl](https://www.linkedin.com/in/ertlmoritz/)  
+- LinkedIn: [in/ertlmoritz](https://www.linkedin.com/in/ertlmoritz/)  
 
 <!--
 **ertlmoritz/ertlmoritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
