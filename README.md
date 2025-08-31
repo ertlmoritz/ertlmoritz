@@ -1,14 +1,17 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%2C+I%27m+Moritz+Ertl!&height=100&animation=fadeIn" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&text=Hi%2C+I%27m+Moritz+Ertl!&height=150&animation=fadeIn&fontColor=d9d9d9" alt="banner">
 </p>
 
-### 👋 About Me  
-I’m a **Master’s student in Mechanical Engineering** at TUM, specializing in AI, Computer Vision, and Environmental Monitoring. I build **reproducible tools** in MATLAB & Python to bridge academic research with real-world engineering.
+## 👋 About Me
 
-- 🎓 Currently building algorithms for **change detection in satellite imagery**, **hyperparameter tuning** for ML models, and data-driven monitoring.
-- 🛠️ Proficient in **MATLAB, Python (PyTorch, Optuna)**, **image processing**, and **machine learning workflows**.
-- 💬 Passionate about writing clean, documented code and sharing practical solutions.
+Hi, I’m **Moritz Ertl** — a Master’s student in Mechanical Engineering (M.Sc.) at the Technical University of Munich with a strong interest in **artificial intelligence, computer vision, and engineering applications**.  
+
+🔹 I enjoy combining my engineering background with **data-driven approaches** to solve complex technical challenges.  
+🔹 Experienced in **Python, MATLAB, Git, and Linux**, as well as embedded hardware such as **Raspberry Pi, Arduino, and Edge TPU**.  
+🔹 Passionate about building **reproducible, well-documented, and practical solutions** that connect research with real-world applications.  
+
+🚀 Always curious, always learning — and excited to collaborate on innovative projects.  
 
 ---
 
@@ -18,8 +21,6 @@ I’m a **Master’s student in Mechanical Engineering** at TUM, specializing in
 |--------|-------------|
 | [Change Detection (MATLAB)](https://github.com/moritz-ertl/change-detection-pca-kmeans) | PCA + K-Means for unsupervised satellite image change detection. |
 | [Hyperparameter Tuning (PyTorch)](https://github.com/moritz-ertl/<your-repo-name>) | Framework using Optuna and PyTorch for efficient tuning of segmentation models. |
-
-🔗 Explore more projects in my [Repositories](https://github.com/moritz-ertl?tab=repositories).
 
 ---
 
@@ -34,17 +35,9 @@ I’m a **Master’s student in Mechanical Engineering** at TUM, specializing in
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ertlmoritz&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
 ### ✉️ Connect with me  
-- 📧 Email: moritz@example.com  
-- 💼 LinkedIn: [in/moritz-ertl](https://www.linkedin.com/in/moritz-ertl/)  
-- 🌐 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
+- Email: moritz@prodmail.de
+- LinkedIn: [in/moritz-ertl](https://www.linkedin.com/in/moritz-ertl/)  
 
 <!--
 **ertlmoritz/ertlmoritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
