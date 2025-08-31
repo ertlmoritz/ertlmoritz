@@ -36,7 +36,7 @@ I’m a **Master’s student in Mechanical Engineering** at TUM, specializing in
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moritz-ertl&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ertlmoritz&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
