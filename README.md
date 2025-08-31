@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Moritz Ertl** — a Master’s student in Mechanical Engineering (M.Sc.) at the Technical University of Munich with a strong interest in **artificial intelligence, computer vision, and engineering applications**.  
+Hi, I’m **Moritz Ertl** — a Master’s student in Mechanical Engineering (M.Sc.) at the Technical University of Munich with a strong interest in **artificial intelligence, computer vision, and medical technology**.  
 
 🔹 I enjoy combining my engineering background with **data-driven approaches** to solve complex technical challenges.  
 🔹 Experienced in **Python, MATLAB, Git, and Linux**, as well as embedded hardware such as **Raspberry Pi, Arduino, and Edge TPU**.  
