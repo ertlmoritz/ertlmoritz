@@ -19,8 +19,8 @@ Hi, I’m **Moritz Ertl** — a Master’s student in Mechanical Engineering (M.
 
 | Project | Description |
 |--------|-------------|
-| [Change Detection (MATLAB)](https://github.com/moritz-ertl/change-detection-pca-kmeans) | PCA + K-Means for unsupervised satellite image change detection. |
-| [Hyperparameter Tuning (PyTorch)](https://github.com/moritz-ertl/<your-repo-name>) | Framework using Optuna and PyTorch for efficient tuning of segmentation models. |
+| [Change Detection (MATLAB)](https://github.com/ertlmoritz/change-detection-pca-kmeans) | PCA + K-Means for unsupervised satellite image change detection. |
+| [Hyperparameter Tuning (PyTorch)](https://github.com/ertlmoritz/pytorch-seg-hypertune) | Framework using Optuna and PyTorch for efficient tuning of segmentation models. |
 
 ---
 
