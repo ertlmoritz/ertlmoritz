@@ -21,6 +21,7 @@ Hi, I’m **Moritz Ertl** — a Master’s student in Mechanical Engineering (M.
 |--------|-------------|
 | [Change Detection (MATLAB)](https://github.com/ertlmoritz/change-detection-pca-kmeans) | PCA + K-Means for unsupervised satellite image change detection. |
 | [Hyperparameter Tuning (PyTorch)](https://github.com/ertlmoritz/pytorch-seg-hypertune) | Framework using Optuna and PyTorch for efficient tuning of segmentation models. |
+| [6-DOF Robot Arm (Python)](https://github.com/ertlmoritz/6DOF_Robotic_Arm) | Worst-case sizing of a DIY 6-DOF robotic arm. |
 
 ---
 
@@ -30,7 +31,6 @@ Hi, I’m **Moritz Ertl** — a Master’s student in Mechanical Engineering (M.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
 </p>
 
 ---
